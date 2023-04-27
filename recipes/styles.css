@@ -1,16 +1,25 @@
 *{
-    padding: 0;
-    margin: 0;
+    padding: 20;
+    margin: 10;
 }
 body{
     background-image:url("background1.jpg");
 }
 img{
-    
+padding: 200px 200px;
     width: 450;
     height: auto;
+}
+main li{
+    list-style-type: none;
 }
 footer{
     background-color: black;
     color: white;
+    display: block;
+    width: auto;
+}
+hr{
+    color: white;
+    width: auto;
 }
