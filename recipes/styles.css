@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image:url("background1.jpg");
+}
+img{
+    
+    width: 450;
+    height: auto;
+}
+footer{
+    background-color: black;
+    color: white;
+}
