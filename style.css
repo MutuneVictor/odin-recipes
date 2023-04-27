@@ -10,8 +10,11 @@ padding: 10px 10px;
     width: 350px;
     height: auto;
 }
-main{
+body{
     background-image:url("recipes/images/background1.jpg");
+}
+main{
+    background-color: white;
 }
 
 main li{
@@ -19,9 +22,8 @@ main li{
     list-style-type: none;
 }
 footer{
-    background-color: black;
-    color: white;
-    display: block;
+    border:1px solid yellow;
+    color: black;
     width: auto;
 }
 hr{
