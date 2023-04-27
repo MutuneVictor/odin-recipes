@@ -1,0 +1,24 @@
+*{
+    padding: 20;
+    margin: 10;
+}
+body{
+    background-image:url("/recipes/images/background1.jpg");
+}
+img{
+padding: 20px 20px;
+    width: 450;
+    height: auto;
+}
+ 
+}
+footer{
+    background-color: black;
+    color: white;
+    display: block;
+    width: auto;
+}
+hr{
+    color: white;
+    width: auto;
+}
