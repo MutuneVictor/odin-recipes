@@ -6,9 +6,9 @@
 }
 
 img{
-padding: 0px ;
     width: 350px;
     height: auto;
+    position: static;
 }
 body{
     background-image:url("recipes/images/background1.jpg");
