@@ -1,24 +1,50 @@
 *{
+    
     font-family: 'Times New Roman', Times, serif;
-    font-size: medium;
-    padding: 20;
-    margin: 10;
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    color: rgb(243, 162, 10);
+    font-size: 45px;
+    font-weight: bold;
+}
+
+img{
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    height: auto;
+    position: static;
+    width: 100%;
+   
 }
 body{
+    color: white;
+    width: 100%;
     background-image:url("images/background1.jpg");
 }
-img{
-padding: 10px 10px;
-    width: 350px;
-    height: auto;
+
+main li{
+     list-style-type: none;
 }
-footer{
-    background-color: black;
-    color: white;
-    display: block;
-    width: auto;
-}
+h2{
+    color:black;
+    font-size: 35px;
+    font-weight: bold;
+} 
 hr{
     color: white;
+    width: auto;
+}
+footer{
+    border:1px solid yellow;
+    background-color: rgb(243, 162, 10);
+    color: rgb(255, 253, 253);
     width: auto;
 }

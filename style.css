@@ -1,26 +1,56 @@
 *{
+    
     font-family: 'Times New Roman', Times, serif;
-    font-size: medium;
-    padding: 20;
-    margin: 5;
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 img{
-    width: 280px;
+    
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
     height: auto;
     position: static;
+    width: 100%;
+   
 }
+.recipes{
+    border:1px solid black ;
+    background-color: white;
+    color: khaki;
+    display: block;
+}
+.recipes li{
+    border:1px solid black ;
+    list-style-type: none;
+}
+h1{
+    color: rgb(243, 162, 10);
+    font-size: 45px;
+    font-weight: bold;
+}
+
 body{
+    color: white;
+    width: 100%;
     background-image:url("recipes/images/background1.jpg");
 }
 
-main li{
-     list-style-type: none;
-}
 footer{
     border:1px solid yellow;
-    color: black;
+    background-color: rgb(243, 162, 10);
+    color: rgb(255, 253, 253);
     width: auto;
+}
+h2{
+    color:black;
+    font-size: 35px;
+    font-weight: bold; 
 }
 hr{
     color: white;
