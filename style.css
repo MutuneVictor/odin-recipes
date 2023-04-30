@@ -6,6 +6,17 @@
     margin: 0;
     box-sizing: border-box;
 }
+body{
+    color: white;
+    width: 100%;
+    background-image:url("recipes/images/background1.jpg");
+}
+.recipe{
+    width: 80%;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 img{
     
@@ -35,11 +46,7 @@ h1{
     font-weight: bold;
 }
 
-body{
-    color: white;
-    width: 100%;
-    background-image:url("recipes/images/background1.jpg");
-}
+
 
 footer{
     border:1px solid yellow;
