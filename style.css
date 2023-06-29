@@ -11,13 +11,6 @@ body{
     width: 100%;
     background-image:url("recipes/images/background1.jpg");
 }
-.recipe{
-    width: 80%;
-  background-color: white;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 img{
     
     margin: 0px;
